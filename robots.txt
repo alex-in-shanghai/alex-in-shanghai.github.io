@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alex-in-shanghai.github.io/sitemap.xml
